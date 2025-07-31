@@ -3,7 +3,7 @@
 - 🔭 I’m currently working for Greenpeace Brasil as a Full Stack Web Developer
 - 🌱 I’m currently studying MERN stack apps and web products development
 - 💬 Ask me about Linux webservers and softwares, bash terminal, front-end development, bash scripting and Wordpress.
-- 📫 Reach me at [my website](https://sadris.co/) or at [LinkedIn](https://www.linkedin.com/in/sadrisco/)
+- 📫 Reach me at [my website](https://ribel.space) or at [LinkedIn](https://www.linkedin.com/in/sadrisco/)
 - 😄 Pronouns: He/him/his
 
 ![Logo](https://media0.giphy.com/media/cLHmnYgG8WtNoFzCMI/giphy.gif?cid=ecf05e47zq3xda6uiymln3fc2bdpb6a6hm6wy2emj5rm3hs7&rid=giphy.gif&ct=g)
